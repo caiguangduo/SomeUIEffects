@@ -1,0 +1,2 @@
+1、通过设置sortingOrder使粒子特效被一张Image遮盖，而不被另一张Image遮盖；
+2、使Text文本具备渐变色；
