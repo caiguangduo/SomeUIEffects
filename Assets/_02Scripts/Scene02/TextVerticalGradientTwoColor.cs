@@ -3,11 +3,12 @@ using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
 
+/// <summary>
+/// 使Text具备双色渐变的效果
+/// </summary>
 [RequireComponent(typeof(Text))]
 public class TextVerticalGradientTwoColor : BaseMeshEffect
 {
-
-
     public Color colorTop = Color.red;
     public Color colorBottom = Color.green;
 

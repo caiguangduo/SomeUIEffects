@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// 通过设置sortingOrder使UI和粒子之间出现相互遮挡的效果
+/// </summary>
 public class UIDepth : MonoBehaviour
 {
     public int order;
